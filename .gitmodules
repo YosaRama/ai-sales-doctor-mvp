@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/YosaRama/ai-sales-doctor-mvp-client.git
+[submodule "server"]
+	path = server
+	url = https://github.com/YosaRama/ai-sales-doctor-mvp-server.git
